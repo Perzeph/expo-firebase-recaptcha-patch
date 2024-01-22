@@ -33,9 +33,9 @@
 		"typescript": "^4.9.4"
 	},
 	"peerDependencies": {
-		"firebase": "^10.7.0",
+		"firebase": "^10.7.1",
 		"react": "^18.2.0",
-		"react-native": "^0.72.7",
+		"react-native": "^0.72.6",
 		"react-native-webview": "^13.6.3"
 	}
 }
